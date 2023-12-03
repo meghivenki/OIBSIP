@@ -1,2 +1,2 @@
 # OIBSIP
-Building machine learning models
+In this project, we trained several datasets using machine learning models.
